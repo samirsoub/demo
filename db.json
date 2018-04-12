@@ -1,13 +1,28 @@
 {
-  "posts": [
+  "servicio1": [
+    { "id_solicitud": 20943, "item": 0, "id_origen": 81, "id_destino": 1612, "fecha_origen": "2018-06-12", "fecha_regreso": "2018-06-15", "tipo_servicio": 1, "pasajeros": 1, "id_clase": 74, "desc_tipo_emision": "CON CAMBIOS", "desc_Ori": "SANTIAGO", "desc_Dest": "TEMUCO", "descClase": "ECONOMICA", "descTServ": "MULTIDESTINO", "cantCotiza": 0, "cantaprueba": 0, "hora_origen": "18:00", "min_origen": "", "hora_regreso": "19:00", "minuto_regreso": "", "Observaciones": "Viaje por Planificación del Banco. Asiste con Sr. Ignacio Yarur."},
+    { "id_solicitud": 20943, "item": 1, "id_origen": 81, "id_destino": 1612, "fecha_origen": "2018-06-12", "fecha_regreso": "2018-06-15", "tipo_servicio": 1, "pasajeros": 1, "id_clase": 74, "desc_tipo_emision": "CON CAMBIOS", "desc_Ori": "TEMUCO", "desc_Dest": "SANTIAGO", "descClase": "ECONOMICA", "descTServ": "MULTIDESTINO", "cantCotiza": 0, "cantaprueba": 0, "hora_origen": "14:00", "min_origen": "", "hora_regreso": "15:00", "minuto_regreso": "", "Observaciones": "Viaje por Planificación del Banco. Asiste con Sr. Ignacio Yarur."}
+  ],
+  "servicio2": [
+    { "id_solicitud": 20943, "item": 0, "id_origen": 81, "id_destino": 1612, "fecha_origen": "2018-06-12", "fecha_regreso": "2018-06-15", "tipo_servicio": 2, "pasajeros": 1, "id_clase": 74, "desc_tipo_emision": "CON CAMBIOS", "desc_Ori": "SANTIAGO", "desc_Dest": "TEMUCO", "descClase": "ECONOMICA", "descTServ": "MULTIDESTINO", "cantCotiza": 0, "cantaprueba": 0, "hora_origen": "18:00", "min_origen": "", "hora_regreso": "19:00", "minuto_regreso": "", "Observaciones": "Viaje por Planificación del Banco. Asiste con Sr. Ignacio Yarur."},
+    { "id_solicitud": 20943, "item": 1, "id_origen": 81, "id_destino": 1612, "fecha_origen": "2018-06-12", "fecha_regreso": "2018-06-15", "tipo_servicio": 2, "pasajeros": 1, "id_clase": 74, "desc_tipo_emision": "CON CAMBIOS", "desc_Ori": "TEMUCO", "desc_Dest": "SANTIAGO", "descClase": "ECONOMICA", "descTServ": "MULTIDESTINO", "cantCotiza": 0, "cantaprueba": 0, "hora_origen": "14:00", "min_origen": "", "hora_regreso": "15:00", "minuto_regreso": "", "Observaciones": "Viaje por Planificación del Banco. Asiste con Sr. Ignacio Yarur."}
+  ],
+  "servicio3": [
     { "id_solicitud": 20943, "item": 0, "id_origen": 81, "id_destino": 1612, "fecha_origen": "2018-06-12", "fecha_regreso": "2018-06-15", "tipo_servicio": 3, "pasajeros": 1, "id_clase": 74, "desc_tipo_emision": "CON CAMBIOS", "desc_Ori": "SANTIAGO", "desc_Dest": "TEMUCO", "descClase": "ECONOMICA", "descTServ": "MULTIDESTINO", "cantCotiza": 0, "cantaprueba": 0, "hora_origen": "18:00", "min_origen": "", "hora_regreso": "19:00", "minuto_regreso": "", "Observaciones": "Viaje por Planificación del Banco. Asiste con Sr. Ignacio Yarur."},
     { "id_solicitud": 20943, "item": 1, "id_origen": 81, "id_destino": 1612, "fecha_origen": "2018-06-12", "fecha_regreso": "2018-06-15", "tipo_servicio": 3, "pasajeros": 1, "id_clase": 74, "desc_tipo_emision": "CON CAMBIOS", "desc_Ori": "TEMUCO", "desc_Dest": "SANTIAGO", "descClase": "ECONOMICA", "descTServ": "MULTIDESTINO", "cantCotiza": 0, "cantaprueba": 0, "hora_origen": "14:00", "min_origen": "", "hora_regreso": "15:00", "minuto_regreso": "", "Observaciones": "Viaje por Planificación del Banco. Asiste con Sr. Ignacio Yarur."}
   ],
-  "comments": [
-     { "id": 1, "body": "some comment", "postId": 1 },
-     { "id": 2, "body": "some comment", "postId": 1 }
+  "servicioitem1": [
+     { "id_solicitud": 20943, "item": 0, "id_origen": 81, "id_destino": 1612, "fecha_origen": "2018-06-12", "fecha_regreso": "2018-06-15", "tipo_servicio": 1, "pasajeros": 1, "id_clase": 74, "desc_tipo_emision": "CON CAMBIOS", "desc_Ori": "SANTIAGO", "desc_Dest": "TEMUCO", "descClase": "ECONOMICA", "descTServ": "MULTIDESTINO", "cantCotiza": 0, "cantaprueba": 0, "hora_origen": "18:00", "min_origen": "", "hora_regreso": "19:00", "minuto_regreso": "", "Observaciones": "Viaje por Planificación del Banco. Asiste con Sr. Ignacio Yarur."},
+  ],
+  "servicioitem2": [
+     { "id_solicitud": 20943, "item": 0, "id_origen": 81, "id_destino": 1612, "fecha_origen": "2018-06-12", "fecha_regreso": "2018-06-15", "tipo_servicio": 2, "pasajeros": 1, "id_clase": 74, "desc_tipo_emision": "CON CAMBIOS", "desc_Ori": "SANTIAGO", "desc_Dest": "TEMUCO", "descClase": "ECONOMICA", "descTServ": "MULTIDESTINO", "cantCotiza": 0, "cantaprueba": 0, "hora_origen": "18:00", "min_origen": "", "hora_regreso": "19:00", "minuto_regreso": "", "Observaciones": "Viaje por Planificación del Banco. Asiste con Sr. Ignacio Yarur."},
+  ],
+  "servicioitem3": [
+     { "id_solicitud": 20943, "item": 0, "id_origen": 81, "id_destino": 1612, "fecha_origen": "2018-06-12", "fecha_regreso": "2018-06-15", "tipo_servicio": 3, "pasajeros": 1, "id_clase": 74, "desc_tipo_emision": "CON CAMBIOS", "desc_Ori": "SANTIAGO", "desc_Dest": "TEMUCO", "descClase": "ECONOMICA", "descTServ": "MULTIDESTINO", "cantCotiza": 0, "cantaprueba": 0, "hora_origen": "18:00", "min_origen": "", "hora_regreso": "19:00", "minuto_regreso": "", "Observaciones": "Viaje por Planificación del Banco. Asiste con Sr. Ignacio Yarur."},
   ],
   "profile": {
     "name": "ssrcode"
   }
+  
 }
+
